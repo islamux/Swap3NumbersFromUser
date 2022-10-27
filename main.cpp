@@ -35,7 +35,7 @@ int main(){
     PrintNumberIntWithDoubleMsg("Number 3 Before swaping = ", number3, ".");
 
     // Decoration 
-    PrintShapesFromText("text to be conerted to shape ..", '+');
+    PrintShapesFromText("text to be converted to shape ..", '+');
 
     //Printing Numers After swaping
     PrintSwaping3Numbers(number1,number2,number3);
