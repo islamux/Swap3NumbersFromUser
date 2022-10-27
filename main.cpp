@@ -27,7 +27,7 @@ int main(){
     int number3 = ReadNumberPositiveInt("Enter a number :\n");  // 301 ==> 115 الثالث ياخذ الاول 
 
     // Decoration 
-    PrintShapesFromText("text to be conerted to shape ..", '+');
+    PrintShapesFromText("text converted to shap => ", '+');
 
     // Printing Numbers Before swapinging
     PrintNumberIntWithDoubleMsg("Number 1 Before swaping = ", number1, ".");
